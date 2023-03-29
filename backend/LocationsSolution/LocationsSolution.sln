@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationsApi", "LocationsApi\LocationsApi.csproj", "{34F70F60-0FED-4492-85BF-8AA805C357FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationsApi", "LocationsApi\LocationsApi.csproj", "{5EDF279E-C574-46EA-9A9D-D324071CAEBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{34F70F60-0FED-4492-85BF-8AA805C357FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{34F70F60-0FED-4492-85BF-8AA805C357FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{34F70F60-0FED-4492-85BF-8AA805C357FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{34F70F60-0FED-4492-85BF-8AA805C357FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDF279E-C574-46EA-9A9D-D324071CAEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDF279E-C574-46EA-9A9D-D324071CAEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDF279E-C574-46EA-9A9D-D324071CAEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDF279E-C574-46EA-9A9D-D324071CAEBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7B9826C8-95B0-4E9F-848E-15228C8D93D0}
+		SolutionGuid = {392AF3EB-3DB8-442E-A245-0F08CE6BBD5B}
 	EndGlobalSection
 EndGlobal
